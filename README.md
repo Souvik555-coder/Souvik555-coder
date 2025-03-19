@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Souvik!
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">] Hi I'm Souvik!
  I am a developer and a learner
  
 🛠️ Tech Tinkerer: I'm always on the lookout for new ways to do things better, experimenting with different technologies, and pushing the boundaries of what's possible.
