@@ -14,8 +14,8 @@
 
 ## Connect With Me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
-[<img align="left" alt="codeSTACKr | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
+[<img align="left" alt="codeSTACKr | LinkedIN" width="30px" src="https://static.vecteezy.com/system/resources/previews/018/910/721/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" />][linkedin]
 
 <br />
 
